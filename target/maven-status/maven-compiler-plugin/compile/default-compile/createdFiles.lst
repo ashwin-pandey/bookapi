@@ -1,4 +1,9 @@
 com\ashwin\spring\config\WebConfig.class
-com\ashwin\spring\model\Book.class
+com\ashwin\spring\dao\BookDAOImpl.class
 com\ashwin\spring\config\AppConfig.class
 com\ashwin\spring\config\MyWebAppInitializer.class
+com\ashwin\spring\controller\BookController.class
+com\ashwin\spring\dao\BookDAO.class
+com\ashwin\spring\model\Book.class
+com\ashwin\spring\service\BookService.class
+com\ashwin\spring\service\BookServiceImpl.class
