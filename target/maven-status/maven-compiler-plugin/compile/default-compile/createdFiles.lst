@@ -1,0 +1,4 @@
+com\ashwin\spring\config\WebConfig.class
+com\ashwin\spring\model\Book.class
+com\ashwin\spring\config\AppConfig.class
+com\ashwin\spring\config\MyWebAppInitializer.class
